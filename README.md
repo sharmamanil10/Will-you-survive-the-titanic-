@@ -1,2 +1,3 @@
 # titanic
-predicting survival of passengers of titanic ship using logistic regression
+Predicting survival of passengers of titanic ship
+Using logistic regression, managed to raise accuracy up to 78%
